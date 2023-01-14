@@ -1,1 +1,1 @@
-# assistantoskar
+Сайт "Oskar Assistant"
